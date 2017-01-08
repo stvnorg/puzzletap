@@ -13,7 +13,7 @@ settings =
 		default = "portrait",
 		supported = { "portrait", },
 	},
-	
+
 	excludeFiles =
 	{
 		-- Include only the necessary icon files on each platform
@@ -54,7 +54,7 @@ settings =
 			},
 		},
 	},
-	
+
 	--
 	-- Android Section
 	--
